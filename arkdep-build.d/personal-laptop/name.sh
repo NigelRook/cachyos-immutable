@@ -1,1 +1,1 @@
-echo "arkanelinux-$(date +%Y-%m-%d)"
+echo "cachyos-personal-laptop-$(date +%Y-%m-%d)"
