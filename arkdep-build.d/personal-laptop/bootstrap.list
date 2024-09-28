@@ -8,3 +8,4 @@ dbus-broker-units
 arkdep
 arch-install-scripts
 wget
+btrfs-progs
